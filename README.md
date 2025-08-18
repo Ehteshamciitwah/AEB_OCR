@@ -12,7 +12,7 @@ This is an official PyTorch demo of the paper [Two-Stage Network for Detection a
 
 
 ### Get Started
-
+Install the requirements.txt.
 Run the main.py file for inference. 
 
 In addition. 🚀 The demo is available on Hugging Face Spaces:  
