@@ -3,7 +3,7 @@ AeroEngine Blade Serial Text Detection and Recognition.
 ## Two-Stage Network for Detection and Recognition of Aeroengine Blade Serial Text
 
 <p align="center">
-  <img src=demo_images/Graphical abstract.png width="80%">
+  <img src=demo_images/Graphical_abstract.png width="80%">
 </p>
 
 This is an official PyTorch demo of the paper [Two-Stage Network for Detection and Recognition of Aeroengine Blade Serial Text].
