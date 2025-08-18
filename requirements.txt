@@ -1,0 +1,11 @@
+gradio
+ultralytics
+torch
+torchvision
+Pillow
+opencv-python
+numpy
+pytorch_lightning
+lmdb
+nltk
+timm
