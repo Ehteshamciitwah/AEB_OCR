@@ -24,13 +24,14 @@ In addition. 🚀 The demo is available on Hugging Face Spaces:
 <p align="center">
   <img src=demo_images/Detection_result.png width="80%">
 </p>
+
 ## Serial Recognition Result
 <p align="center">
   <img src=demo_images/recognition_result.png width="80%">
 </p>
+
 ## Acknowledgement
-
-
+This work is funded by Sanad Aerotech and supported by Khalifa University of Science and Technology under Award 8474000660. The work is also supported by the Advanced Research and Innovation Center (ARIC), which is jointly funded by Aerospace Holding Company LLC, a wholly-owned subsidiary of Mubadala Investment Company PJSC and Khalifa University for Science and Technology.
 ## License
 The data is released under the CC BY 4.0 license.
 
