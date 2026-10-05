@@ -34,4 +34,6 @@ This work is funded by Sanad Aerotech and supported by Khalifa University of Sci
 ## License
 The data is released under the CC BY 4.0 license.
 
-
+## For Training
+#   PARSEQ MODEL FOP TEXT RECOGNITION [Parseq](https://github.com/baudm/parseq)
+#   ORIENTED  OBJECT DETECTOR FOR TEXT DETECTION[Obb](https://docs.ultralytics.com/tasks/obb)
